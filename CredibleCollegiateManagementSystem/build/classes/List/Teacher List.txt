@@ -1,0 +1,13 @@
+Your TEACHER  LIST is here
+---------------------
+
+
+
+name= Ali, fatherName= amjad ali, adress= naval colony, contactNo= 03332145698, id= T002, password= 123
+
+name= bilu, fatherName= amjad ali, adress= naval colony, contactNo= 03332145698, id= T003, password= 123
+
+name= cat, fatherName= amjad ali, adress= naval colony, contactNo= 03332145698, id= T004, password= 123
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= null
+

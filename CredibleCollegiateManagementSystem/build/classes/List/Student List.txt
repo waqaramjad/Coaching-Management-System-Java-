@@ -1,0 +1,24 @@
+Your student  LIST is here
+---------------------
+
+
+name= ASAD, fatherName= ali, adress= SHARA H FAISAL, contactNo= 03332145698, id= F001, password= astudyClass= bsse, course= software engin, fee= p
+
+name= KAINAAT, fatherName= SALEEM, adress= MODEL COLNY, contactNo= 03332145698, id= F002, password= mmmstudyClass= bsse, course= software engin, fee= L
+
+name= SARA, fatherName= ALI KHAN, adress= naval colony, contactNo= 03332145698, id= F003, password= wikistudyClass= bsse, course= software engin, fee= L
+
+name= SHAFIQ, fatherName= UMAR, adress= naval colony, contactNo= 03332145698, id= F004, password= wikistudyClass= bsse, course= software engin, fee= L
+
+name= UMAIR, fatherName= RZZAQ, adress= naval colony, contactNo= 03332145698, id= F005, password= wikistudyClass= bsse, course= software engin, fee= L
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= nullstudyClass= null, course= null, fee= 
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= nullstudyClass= null, course= null, fee= P
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= nullstudyClass= null, course= null, fee= P
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= nullstudyClass= null, course= null, fee= P
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= nullstudyClass= null, course= null, fee= P
+

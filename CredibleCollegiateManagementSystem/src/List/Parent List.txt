@@ -1,0 +1,13 @@
+Your parent  LIST is here
+---------------------
+
+
+
+name= b parent, fatherName= amjad ali, adress= naval colony, contactNo= 03332145698, id= P002, password= abcParent{}
+
+name= c parent, fatherName= amjad ali, adress= naval colony, contactNo= 03332145698, id= P003, password= abcParent{}
+
+name= c, fatherName= amjad ali, adress= naval colony, contactNo= 03332145698, id= P004, password= abcParent{}
+
+name= null, fatherName= null, adress= null, contactNo= null, id= null, password= nullParent{}
+
